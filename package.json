@@ -1,0 +1,19 @@
+{
+  "name": "order_api",
+  "version": "1.0.0",
+  "description": "Order REST api ",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scauos/order_api.git"
+  },
+  "author": "scauos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scauos/order_api/issues"
+  },
+  "homepage": "https://github.com/scauos/order_api#readme"
+}
